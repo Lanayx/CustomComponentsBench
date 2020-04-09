@@ -1,6 +1,8 @@
 # CustomComponentsBench
 Benchmark performance hit of Custom Elements using Vue wrappers
 
+Results on AMD Ryzen 7 2700X with 4x slowdown
+
 ## Vue-custom-element wrapper (index1.html): 8019 ms
 491 msLoading
 3638 msScripting
