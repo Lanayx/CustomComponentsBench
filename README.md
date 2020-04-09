@@ -1,7 +1,7 @@
 # CustomComponentsBench
 Benchmark performance hit of Custom Elements using Vue wrappers
 
-## Vue-custom-element wrapper: 8019 ms
+## Vue-custom-element wrapper (index1.html): 8019 ms
 491 msLoading
 3638 msScripting
 729 msRendering
@@ -10,7 +10,7 @@ Benchmark performance hit of Custom Elements using Vue wrappers
 1156 msIdle
 8019 msTotal
 
-## Regular Vue component: 5545 ms
+## Regular Vue component (index3.html): 5545 ms
 42 msLoading
 1586 msScripting
 620 msRendering
@@ -19,7 +19,7 @@ Benchmark performance hit of Custom Elements using Vue wrappers
 1346 msIdle
 5545 msTotal
 
-## vue-web-component-wrapper: 6962 ms
+## vue-web-component-wrapper (index3.html): 6962 ms
 354 msLoading
 2154 msScripting
 681 msRendering
