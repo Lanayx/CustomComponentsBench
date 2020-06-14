@@ -12,7 +12,7 @@ Results on AMD Ryzen 7 2700X with 4x slowdown
 1156 msIdle
 8019 msTotal
 
-## Regular Vue component (index3.html): 5545 ms
+## Regular Vue component (index2.html): 5545 ms
 42 msLoading
 1586 msScripting
 620 msRendering
